@@ -1,1 +1,2 @@
-run `php main.php`
+1. Copy repository.
+2. run `php main.php`
